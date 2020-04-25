@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GeoJSON_Data_Visualization/static/css/main.8093e4d0.chunk.css",
+    "main.js": "/GeoJSON_Data_Visualization/static/js/main.e35bd73a.chunk.js",
+    "main.js.map": "/GeoJSON_Data_Visualization/static/js/main.e35bd73a.chunk.js.map",
+    "runtime-main.js": "/GeoJSON_Data_Visualization/static/js/runtime-main.a7f5bf5c.js",
+    "runtime-main.js.map": "/GeoJSON_Data_Visualization/static/js/runtime-main.a7f5bf5c.js.map",
+    "static/js/2.038b0b7d.chunk.js": "/GeoJSON_Data_Visualization/static/js/2.038b0b7d.chunk.js",
+    "static/js/2.038b0b7d.chunk.js.map": "/GeoJSON_Data_Visualization/static/js/2.038b0b7d.chunk.js.map",
+    "index.html": "/GeoJSON_Data_Visualization/index.html",
+    "precache-manifest.0f46576a197238a60133d1be8b0c9a0a.js": "/GeoJSON_Data_Visualization/precache-manifest.0f46576a197238a60133d1be8b0c9a0a.js",
+    "service-worker.js": "/GeoJSON_Data_Visualization/service-worker.js",
+    "static/css/main.8093e4d0.chunk.css.map": "/GeoJSON_Data_Visualization/static/css/main.8093e4d0.chunk.css.map",
+    "static/js/2.038b0b7d.chunk.js.LICENSE.txt": "/GeoJSON_Data_Visualization/static/js/2.038b0b7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7f5bf5c.js",
+    "static/js/2.038b0b7d.chunk.js",
+    "static/css/main.8093e4d0.chunk.css",
+    "static/js/main.e35bd73a.chunk.js"
+  ]
+}
